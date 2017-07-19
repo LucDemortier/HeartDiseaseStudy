@@ -1,6 +1,10 @@
 # HeartDiseaseStudy
-Project McNulty for Spring 2015 Metis Data Science Boot Camp. 
-See blog post at [lucdemortier.github.io](http://lucdemortier.github.io/portfolio/3_mcnulty.html) for a description of the results.
+
+For this project I applied a logistic regression model to the Cleveland Heart Disease data set.
+
+This was my "Project McNulty" in the Spring 2015 Metis Data Science Boot Camp. 
+
+See blog post at [lucdemortier.github.io](http://lucdemortier.github.io/projects/3_mcnulty.html) for a description of the results.
 
 iPython notebooks and other files used to generate the results and plots for the McNulty project:
 
